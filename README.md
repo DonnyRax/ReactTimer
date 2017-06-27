@@ -1,1 +1,1 @@
-# React Weather App
+# React Timer App
