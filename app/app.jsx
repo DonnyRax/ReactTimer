@@ -22,15 +22,3 @@ ReactDOM.render(
   document.getElementById('app')
 );
 
-/*
-ReactDOM.render(
-  <Router history={hashHistory}>
-    <Route path="/" component={Main}>
-      <Route path="about" component={About}/>
-      <Route path="examples" component={Examples}/>
-      <IndexRoute component={Weather}/>
-    </Route>
-  </Router>,
-  document.getElementById('app')
-);
-*/
